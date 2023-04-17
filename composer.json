@@ -1,0 +1,17 @@
+{
+    "name": "saiyedy/demotwo",
+    "description": "Demo Two",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Saiyedy\\Demotwo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yamin Demotwo"
+        }
+    ],
+    "require": {}
+}
